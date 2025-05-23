@@ -1,0 +1,64 @@
+.
+├── .expo
+│   ├── devices.json
+│   ├── README.md
+│   └── types
+│       └── router.d.ts
+├── .gitignore
+├── .vscode
+│   └── settings.json
+├── app
+│   ├── _layout.tsx
+│   ├── (tabs)
+│   │   ├── _layout.tsx
+│   │   ├── explore.tsx
+│   │   └── index.tsx
+│   └── +not-found.tsx
+├── app.json
+├── assets
+│   ├── fonts
+│   │   └── SpaceMono-Regular.ttf
+│   └── images
+│       ├── adaptive-icon.png
+│       ├── favicon.png
+│       ├── icon.png
+│       ├── partial-react-logo.png
+│       ├── react-logo.png
+│       ├── react-logo@2x.png
+│       ├── react-logo@3x.png
+│       └── splash-icon.png
+├── components
+│   ├── Button.tsx
+│   ├── Collapsible.tsx
+│   ├── colors.ts
+│   ├── Config.js
+│   ├── ExternalLink.tsx
+│   ├── HapticTab.tsx
+│   ├── HelloWave.tsx
+│   ├── helpers.ts
+│   ├── ParallaxScrollView.tsx
+│   ├── PaymentScreen.tsx
+│   ├── ThemedText.tsx
+│   ├── ThemedView.tsx
+│   └── ui
+│       ├── IconSymbol.ios.tsx
+│       ├── IconSymbol.tsx
+│       ├── TabBarBackground.ios.tsx
+│       └── TabBarBackground.tsx
+├── constants
+│   └── Colors.ts
+├── eslint.config.js
+├── expo-env.d.ts
+├── file-structure.txt
+├── hooks
+│   ├── useColorScheme.ts
+│   ├── useColorScheme.web.ts
+│   └── useThemeColor.ts
+├── package-lock.json
+├── package.json
+├── README.md
+├── scripts
+│   └── reset-project.js
+└── tsconfig.json
+
+14 directories, 48 files
